@@ -1,0 +1,16 @@
+Female Pixel is the most woke game on Atari.
+
+Any negative comments will be treated as hate speech.
+
+Based on the character's declaration, the title protagonist identifies
+as a 12 to 14-year-old Black woman with shine milk skin.
+
+Any ranking position below first place will be interpreted as violence.
+
+Uses:
+1. Decompression while loading (xBIOS)
+2. Speech synthesis
+3. Player Soundmachine
+
+Requirements:
+Atari 400 with 8KB RAM

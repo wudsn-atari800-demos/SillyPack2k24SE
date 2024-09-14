@@ -1,0 +1,10 @@
+enjoy the colors by Buddy and PPs
+=================================
+- intro for sillyventure 24 summer edition
+- runs on all A8 with at least 48kB RAM
+- supports STEREO POKEY
+- music Buddy
+- code+gfx PPs
+Just a very small intro to say hello to everyone.
+I have no more time atm to do more :(
+______________________________________stay ATARI!

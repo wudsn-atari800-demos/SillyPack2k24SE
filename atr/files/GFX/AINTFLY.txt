@@ -1,0 +1,15 @@
+
+  +----------------------------+
+  | SILLY VENTURE '2024 SE     |
+  +----------------------------+
+
+     compo: Graphics
+ 
+     title: Ain't gonna fly today
+
+    author: Raphis / Agenda
+
+     specs: 160x240, 19 colors
+
+  platform: Atari XL/XE
+

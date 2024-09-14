@@ -1,0 +1,7 @@
+   title: Rolling Tyre
+  author: sheriff
+   party: Silly Venture 2024 SE
+category: Atari XL/XE Intro 256b
+hardware: original Atari XL/XE 64KB PAL
+
+Tested on real hardware, Altirra, Atari800Win Plus, Colleen.

@@ -1,0 +1,5 @@
+Title: MAFIA
+Authors: The Real Mafia
+Category: Atari XL/XE Game Compo
+Hardware: Stock Atari XL/XE with 64kB and Floppy Drive
+

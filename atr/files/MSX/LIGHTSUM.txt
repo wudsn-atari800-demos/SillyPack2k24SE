@@ -1,0 +1,14 @@
+------------------
+--- for SV24 se ---
+------------------
+
+Titel: Light Summer Breeze
+
+Autor: Buddy
+
+Date: Aug-2024
+
+Categorie: Atari XL/XE Music Compo Mono
+
+*.xex for Altirra
+*.mp3 use it with your favorite mp3-player

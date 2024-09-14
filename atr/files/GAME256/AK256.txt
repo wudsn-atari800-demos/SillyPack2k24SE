@@ -1,0 +1,6 @@
+Author: Krzysztof Rogowski (Krzyś)
+Category: Game 256B
+Title: A-K 256B
+Language: Quick Assembler
+Hardware: Atari 800XL (stock), joystick
+Executable: ak256.xex

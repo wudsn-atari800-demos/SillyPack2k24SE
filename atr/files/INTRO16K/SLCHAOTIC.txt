@@ -1,0 +1,18 @@
+Title: "Slightly Chaotic"
+Category: Intro 16K
+
+file name: "slightly_chaotic_v1.0a.xex"
+file size: 16254 bytes
+
+requirements:
+
+- standard Atari XL/XE with 64kB of RAM
+- PAL version of system
+- stereo POKEY highly recommended!
+
+authors:
+
+      music: "Euglena Zielona" by Grayscale (Greg & Xray)
+idea & code: Seban / Slight ^ Altair
+
+21:54, 2024.08.16, Warsaw

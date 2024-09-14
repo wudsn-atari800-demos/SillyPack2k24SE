@@ -1,0 +1,25 @@
++---------------------------------------------------+
+|               The Hot Winds of Hell               |
++---------------------------------------------------+
+
+Author   : pépé / Hemoroids
+Date     : August, 2024
+Party    : Silly Venture Summer Edition 2024
+Category : Atari XL/XE ATASCII Compo
+System   : ATARI 8bits
+Format   : 40x24 chars - 2 colours
+		   
+GFX Tool : Playscii  - https://jp.itch.io/playscii
+
++---------------------------------------------------+
+|   ___ _/_ ___ _/_                                 |
+|  | . | -_| . | -_|                                |
+|  |  _|___|  _|___|                                |
+|  |_|     |_|          http://peek.poke.free.fr    |
+|                                                   |
+|                                                   |
+|          Greetings to all Atarians and            |
+|       all retro culture preservation teams        |
+|                                                   |
+|    Don't give up, be righteous, stay Atari /|\    |
++---------------------------------------------------+

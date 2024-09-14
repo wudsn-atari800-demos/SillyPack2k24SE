@@ -1,0 +1,7 @@
+"Slow Rewind"
+by Mayonez/COBRA
+Atari 8-bit music for Silly Venture 2024 Summer Edition
+------------------------------------------------------------------------------
+parameters: Raster Music Tracker, 4chn, mono
+.RMT & self-executable .XEX file included
+RMT 1.34

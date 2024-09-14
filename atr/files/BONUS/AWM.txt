@@ -1,0 +1,6 @@
+Title:          Auf Wiedersehen Monty
+Authors:        sadoslav/atariBDSM, Count Ulrich von Chain/atariBDSM and Miker
+Group:          atariBDSM
+Category:       Atari XL/XE Game Compo (Outside competition)
+HW Config:      Atari 800XL/65XE/800XE/130XE/XEGS, PAL/NTSC,
+                Optional VBXE support (FX 1.20, FX 1.24, FX 1.26 at $D6xx or $D7xx)

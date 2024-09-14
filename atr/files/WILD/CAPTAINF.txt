@@ -1,0 +1,23 @@
+------------------
+--- for SV24se ---
+------------------
+
+Titel: Captain Future Theme
+       Stereo-Pokey-Version
+
+Autor: Buddy
+
+Date: Aug-2024
+
+Categorie: Atari XL/XE Wild Compo
+           Stereo-Pokey
+
+Thanx to: Christian Bruhn & NordischSound
+
+*.xex for Altirra
+*.mp3 use it with your favorite mp3-player
+
+Note:
+If you want, set the Altirra emulator 
+to stereo and mono playback... 
+Then you get the full roar!!!
