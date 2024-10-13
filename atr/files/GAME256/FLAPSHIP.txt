@@ -1,5 +1,11 @@
-"Flappy Space Ship"
-by Mayonez/COBRA
-256 bytes Atari 8-bit game for Silly Venture 2024 Summer Edition
-------------------------------------------------------------------------------
-Coded using real hardware: Atari 65XE + Quick Assembler
+Party:   Silly Venture 2k24 SE
+Compo:   ATARI XL/XE 256B GAME COMPO
+Title:   Flappy Space Ship
+Author:  Tomasz Majewski
+         aka Mayonez/COBRA
+
+Info:    No sound
+         Now runs from DOS 2.5
+ 
+         Coded using real hardware
+         Atari 65XE + Quick Assembler

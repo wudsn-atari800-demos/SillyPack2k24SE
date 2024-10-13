@@ -1,6 +1,10 @@
-Author: Krzysztof Rogowski (Krzyś)
-Category: Game 256B
-Title: A-K 256B
-Language: Quick Assembler
-Hardware: Atari 800XL (stock), joystick
-Executable: ak256.xex
+Party:   Silly Venture 2k24 SE
+Compo:   ATARI XL/XE 256B GAME COMPO
+Title:   A-K 256B
+Author:  Krzysztof Rogowski
+         aka Krzys
+
+Info:    Mono
+         Now runs from DOS 2.5
+ 
+Tools:   Quick Assembler
