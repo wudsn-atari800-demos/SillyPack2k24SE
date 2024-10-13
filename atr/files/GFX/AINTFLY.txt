@@ -1,15 +1,7 @@
+Party:   Silly Venture 2k24 SE
+Compo:   ATARI XL/XE GFX COMPO
+Title:   Ain't gonna fly today
+Author:  Rafal Szczytko
+         aka Raphis/Agenda
 
-  +----------------------------+
-  | SILLY VENTURE '2024 SE     |
-  +----------------------------+
-
-     compo: Graphics
- 
-     title: Ain't gonna fly today
-
-    author: Raphis / Agenda
-
-     specs: 160x240, 19 colors
-
-  platform: Atari XL/XE
-
+Info:    160x240 pixels, 19 colors

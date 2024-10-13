@@ -1,6 +1,17 @@
-Title:          Auf Wiedersehen Monty
-Authors:        sadoslav/atariBDSM, Count Ulrich von Chain/atariBDSM and Miker
-Group:          atariBDSM
-Category:       Atari XL/XE Game Compo (Outside competition)
-HW Config:      Atari 800XL/65XE/800XE/130XE/XEGS, PAL/NTSC,
-                Optional VBXE support (FX 1.20, FX 1.24, FX 1.26 at $D6xx or $D7xx)
+Party:   Silly Venture 2k24 SE
+Compo:   n/a
+Title:   Auf Wiedersehen Monty
+Author:  atariBDSM
+
+         sadoslav/atariBDSM (code)
+         Count Ulrich von Chain/
+         atariBDSM (code)
+         Miker (msx)
+
+
+Info     Supports PAL and NTSC
+         Requires 64K RAM
+         Mono
+         Supports VBXE (core version
+         FX 1.20, FX 1.24, FX 1.26
+         at $D6xx or $D7xx)

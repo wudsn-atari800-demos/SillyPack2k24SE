@@ -11,3 +11,4 @@ Tracker: Raster Music Tracker 1.28
 Info:    Mono
 Info:    Mono, 2nd POKEY supported
 Info:    Stereo, 2nd POKEY required
+         Now runs from DOS 2.5

@@ -5,6 +5,8 @@ echo off
 echo Creating and copying fixes
 call :cpy       menu\README.txt atr\files\BONUS\README.txt
 call :fix       BONUS       README    $2000
+call :fix       MSX         LIGHTSUM
+call :fix       MSX         SLOWREW
 goto :eof
 
 rem =========

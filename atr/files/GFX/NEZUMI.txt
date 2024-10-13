@@ -1,25 +1,33 @@
-+---------------------------------------------------+
-|        Nezumi, the Sandogasa Ronin Mouse          |
-+---------------------------------------------------+
+Party:   Silly Venture 2k24 SE
+Compo:   ATARI XL/XE GFX COMPO
+Title:   Nezumi, the Sandogasa
+         Ronin Mouse
+Author:  Florent Coste
+         aka pepe/Hemoroids
 
-Author   : pépé / Hemoroids
-Date     : August, 2024
-Party    : Silly Venture Summer Edition 2024
-Category : Atari XL/XE Graphics Compo
-System   : ATARI 8bit
-Format   : 320x240 pixels - 50 colors
-		   
-GFX Tool : Graph2Font https://g2f.atari8.info/
+Info:    320x240 pixels, 50 colors
+Date:    2023-08
+Tools:   Graph2Font
+         https://g2f.atari8.info
 
-+---------------------------------------------------+
-|   ___ _/_ ___ _/_                                 |
-|  | . | -_| . | -_|                                |
-|  |  _|___|  _|___|                                |
-|  |_|     |_|          http://peek.poke.free.fr    |
-|                                                   |
-|                                                   |
-|          Greetings to all Atarians and            |
-|       all retro culture preservation teams        |
-|                                                   |
-|    Don't give up, be righteous, stay Atari /|\    |
-+---------------------------------------------------+
+
+
+
+
+
+
+
+
+
+     Be righteous, STay Atari ! 
+_____________________________________
+
+   ___ _/_ ___ _/_ 
+  | . | -_| . | -_|
+  |  _|___|  _|___|
+  |_|     |_|
+  
+_____________________________________
+  
+  http://peek.poke.free.fr/st
+  https://demozoo.org/sceners/123351

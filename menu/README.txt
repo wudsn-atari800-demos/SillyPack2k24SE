@@ -29,7 +29,6 @@ https://files.scene.org/browse/
 parties/2024/sillyventure24/
 
 
-
 Menu background music
 "Speculations"
 by Aleksander Martin (Alex)

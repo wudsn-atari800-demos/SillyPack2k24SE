@@ -34,7 +34,7 @@
  ::--------------------------------------------------------------------------::
  ::   TITLE:                                 AUTHOR:                   PTS:  :: 
 : 01 Readme                                 JAC!                      n/a    :
-: 02 Auf Wiedersehen Monty                  ???/???                   n/a    :
+: 02 Auf Wiedersehen Monty                  atariBDSM                 n/a    :
 
  ::--------------------------------------------------------------------------::
  :    ATARI XL/XE - ATASCII COMPO                                             :

@@ -1,11 +1,10 @@
--+ Alien +-
+Party:   Silly Venture 2k24 SE
+Compo:   ATARI XL/XE ATASCII COMPO
+Title:   -+ Alien +-
+Author:  Szymon Grabinski 
+         aka sIMONkING/thelo0p
+         ^LAZARUS
 
-Author: sIMONkING/thelo0p^LAZARUS
-Category: ATASCII
-System: ATARI ALL
-Description: 
-2nd small ATASCII
-Notes:
-View in playscii
-Comments:
-Created using Playscii with ATASCII Exporter
+Info:    40x28 chars, 2 colors
+Tools:   playSCII 
+         vectorpoem.com/playscii
