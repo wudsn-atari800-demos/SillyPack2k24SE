@@ -1,5 +1,102 @@
-Title: MAFIA
-Authors: The Real Mafia
-Category: Atari XL/XE Game Compo
-Hardware: Stock Atari XL/XE with 64kB and Floppy Drive
+Party:   Silly Venture 2k24 SE
+Compo:   ATARI XL/XE GAME COMPO
+Title:   Mafia (V1.11)
+Author:  The Real Mafia
 
+         drunkeneye (code)
+         +Adam+ (Polish translation)
+         Andy, Cedyn (msx)
+         Miker (snd)
+         +Adam+ (support)
+
+Info:    Requires 64K RAM
+         Mono
+
+
+A game originally by Igelsoft, ported
+to Atari 8-bit by drunkeneye, +Adam+
+and Miker.
+
+
+
+====================
+M A F I A  -  MANUAL
+====================
+
+It is the year 1920 in Chicago.
+Alcohol is prohibited, crime thrives. 
+Store  owners live in constant fear
+of robberies and extortions, which
+are becoming more frequent. Anyone
+can obtain illegal firearms, and the 
+orrupt police are no help. 
+
+You are a nobody just released from
+prison, even hot dog vendors laugh
+at you. Enough is enough. You crave
+control of the underworld. But the
+path to the  mafia throne is long and
+hard. 
+
+Will you succeed?
+
+Goal 
+====
+
+Rise up and become the boss of the
+underworld! Compete against your
+fellow players!
+
+For every job, every murder, every
+smuggling, every bribery, and every
+robbery you gain more fame (and
+points).
+
+But only those who manage to 'turn'
+the mayor in the end and 'borrow'
+the gold in the money transporter
+can be the boss of the underworld...
+
+Controls
+========
+
+The game is controlled with the
+keyboard, but almost always you can
+also use the joystick. In some
+situations, you can go back by
+pressing '0',  for example, when
+purchasing a weapon or a car.
+
+Map:
+ESC = Show gangsters and current
+game status
+
+Fight
+=====
+
+Combat is turn-based, each gangster
+can move or shoot.
+
+Press Return (or fire) to draw your
+weapon and an arrow key (or move your
+joystick) to shoot in that direction.
+
+q = Give up the fight
+    (beginners only)
+i = Activate the AI
+        (after the next move)
+SPACE = Skip the round
+
+
+Loading
+=======
+
+All sources and the current version
+are available at https://github.com/
+drunkeneye/MAFIA.A8
+
+The game comes as separate disks and
+is included in the download as
+"SV2k24SE_Mafia_DE.atr" (German)
+"SV2k24SE_Mafia_EN.atr" (English)
+"SV2k24SE_Mafia_PL.atr" (Polish)
