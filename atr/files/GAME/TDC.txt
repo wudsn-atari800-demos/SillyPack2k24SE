@@ -1,0 +1,19 @@
+Party:   Silly Venture 2k24 SE
+Compo:   ATARI XL/XE GAME COMPO
+Title:   Technical Difficulties
+         - No internet!
+         (The Dino Crisis)
+Author:  Pecus & pirx & Alex
+
+         Tomasz Pecko
+         aka Pecus (code)
+         Pawel Kalinowski
+         aka Pirx (code)
+         Aleksander Martin
+         aka Alex (msx)
+         Jochen Hippel (original msx)
+
+Info:    Mono, 2nd POKEY supported
+         Version 2024-08-25 from
+         https://github.com/Pecusx/
+         dino-game/releases
