@@ -1,29 +1,99 @@
 Party:   Silly Venture 2k2x XE
 Compo:   ATARI XL/XE GAME COMPO
-Title:   ???
-Author:  ???
+Title:   Firefighter Tobik II
+Author:  Zdenda Zubr
+         aka Zdenda (code, gfx)
+         Marek Pesout
+         aka Poison (msx)
+         Zdenek Eisenhammer (code)
+         aka PG (sprite gfx
 
-         ??? (code)
-         ??? (gfx)
-         ??? (fnt)
-         ??? (msx)
-
-Info:
-         Requires PAL
-         Requires BASIC
-         Requires Atari XL OS Rev. 2
-         Requires 128K RAM
-         Requires 256K RAM
-         Requires 320K RAM
-         No sound
-         Mono
+Info:    Requires PAL
+         Requires 1MB RAM
          Mono, 2nd POKEY supported
-         Stereo, 2nd POKEY required
-         Requires VBXE video board
-         SillyPack compatible version
-         Now runs from DOS 2.5
-         Now RESET causes a cold start
-         Now runs reliably on real
-         hardware and from DOS 2.5
 
-Tools:   Raster Music Tracker 1.28
+This game is the continuation of my
+game Firefighter Tobik I., but this
+time it is for Atari computers with
+a  1MB Rambo memory expansion.
+I have tested it on Atari 600XL
+and 800XL with "AVG SUB cart".
+
+You can select a mission from the
+list (out of a total of 20 missions),
+where the fire is and where he will
+go to extinguish it. Missions are
+located in a factory, in a hospital,
+on the Moon, on Neptun orbit and so
+on. The fireman can walk/jump/fall
+through a fire, it doesn't bother him
+even if he is standing in it.
+You can choose from two difficulties:
+EASY or HARD.
+
+Interesting features are defined for
+each mission:
+ 1) GRAVITY POTENTIAL
+    For example, on the Moon, the
+    firefighter can jump higher than
+    on Earth. But on a mission on
+    Neptun, on the contrary, he can
+    only jump lower.
+ 2) DENSITY OF THE ATMOSPHERE
+    The firefighter moves slower/
+    faster on the mission. 
+ 3) FLAMMABLE CONTENT IN ATMOSPHERE
+    The fire spreads faster/slower.
+ 
+On firefighter's back there is a
+small container with firefighting
+liquid, which will run out as he
+extinguishes fire.
+When he runs out of liquid, he has to
+crouch down by the hydrant and the
+liquid in the container on his back
+refills. As for the liquid - in some
+places fire will be extinguished with
+water (blue), but in some places it
+can also be extinguished with
+something else  (green slime, ...).
+
+The firefighter can be promoted or
+can get a ribbon of the medal, which
+can then be seen on the NOTICE-BOARD
+(using "N" key on main screen).
+
+In each mission there is one
+important object that must not start
+burning. In order for the mission to
+be successful, it is necessary to put
+out all the fires before the
+important object starts burning.
+If the important object starts
+burning, the mission has failed
+immediately.
+
+IMPORTANT: fire spreads randomly
+during the mission - just like in
+real life. So sometimes it happens
+that a firefighter doesn't complete
+a mission even if he does everything
+right - just like it can happen in
+real life. In that case, the player
+can play the mission again.
+
+Special thanks to:
+The author of the excellent music in
+this game is Poison6502, songs are
+from his album "Epic fail".
+
+You can visit his creations on
+https://poison6502.bandcamp.com
+
+The author of the fantastic beautiful
+design of the firefighter sprite is
+PG.
+
+The game is also included as separate
+disk image the download as
+"SV2k24SE_Firefighter_Tobik_II.atr".
