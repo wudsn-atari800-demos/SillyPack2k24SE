@@ -5,6 +5,10 @@ echo off
 echo Creating and copying fixes
 call :cpy       menu\README.txt atr\files\BONUS\README.txt
 call :fix       BONUS       README    $2000
+call :fix       INTRO256    ATTRACTO
+call :fix       INTRO256    KITT
+call :fix       GAME        MAFIA
+call :fix       GAME        PIXEL
 call :fix       GAME256     AK256
 call :fix       GAME256     FLAPSHIP
 call :fix       MSX         LIGHTSUM

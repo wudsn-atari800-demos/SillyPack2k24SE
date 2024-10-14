@@ -1,7 +1,10 @@
-   title: Rolling Tyre
-  author: sheriff
-   party: Silly Venture 2024 SE
-category: Atari XL/XE Intro 256b
-hardware: original Atari XL/XE 64KB PAL
+Party:   Silly Venture 2k24 SE
+Compo:   ATARI XL/XE 256B INTRO COMPO
+Title:   Rolling Tyre
+Author:  Michal Sawczuk
+         aka sheriff
 
-Tested on real hardware, Altirra, Atari800Win Plus, Colleen.
+Info:    No sound
+         Tested on real hardware,
+         Altirra, Atari800Win Plus,
+         Colleen.

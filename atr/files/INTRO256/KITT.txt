@@ -1,6 +1,9 @@
-Author: Krzysztof Rogowski (Krzyś)
-Category: Intro 256B
-Title: kitt256
-Language: Quick Assembler
-Hardware: Atari 800XL (stock), preferred clean page 0
-Executable: kitt256.xex
+Party:   Silly Venture 2k24 SE
+Compo:   ATARI XL/XE 256B INTRO COMPO
+Title:   Ein Auto, Ein Computer
+Author:  Krzysztof Rogowski
+         aka Krzys
+
+Info:    Preferred clean page 0
+         Mono
+         Now runs from DOS 2.5

@@ -1,12 +1,18 @@
-Title:             Attractor
-Author:            Kane / Suspect
-Compo:             Atari XL/XE, 256B demo
-Required HW:       Stock Atari 65XE, 800XL or 130XE or equivalent
-Party:             Silly Venture 2024, Summer Edition
+Party:   Silly Venture 2k24 SE
+Compo:   ATARI XL/XE 256B GAME COMPO
+Title:   Attractor
+Author:  Pawel Matusz
+         aka Kane/Suspect
 
-Additional Info:
-Requires a clean boot - memory should be clear!
+Info:    Requires a clean boot. 
+         Memory should be clear.
+         No sound
+         Now runs from DOS 2.5
 
-The original idea had been to iteratively converge several strands of pixels towards a moving 
-attractor. As usual squeezing it into 256 bytes proved a challenge which resulted in something 
-slightly different, but still interesting.
+The original idea had been to
+iteratively converge several strands
+of pixels towards a moving attractor.
+As usual squeezing it into 256 bytes
+proved a challenge which resulted in
+something  slightly different, but
+still interesting.
