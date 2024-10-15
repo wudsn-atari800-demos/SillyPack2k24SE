@@ -96,7 +96,7 @@ are available at https://github.com/
 drunkeneye/MAFIA.A8
 
 The game comes as separate disks and
-is included in the download as
+is included in the download as:
 "SV2k24SE_Mafia_DE.atr" (German)
 "SV2k24SE_Mafia_EN.atr" (English)
 "SV2k24SE_Mafia_PL.atr" (Polish)
