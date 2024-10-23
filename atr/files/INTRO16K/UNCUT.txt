@@ -1,16 +1,11 @@
-Uncut
+Party:   Silly Venture 2k24 SE
+Compo:   ATARI XL/XE 16KB INTRO COMPO
+Title:   Uncut
+Author:  Masters of Electric City
 
-- an 16k intro
-- a SillyVenture SE 2024 entry
+         Rafal Ciepiela 
+         aka bob_er (code)
+         Dariusz Duma
+         aka dhor (msx)
 
-by Masters of Electric City
-
-no RAM, no CPU, no needs at all...
-
-just pure 65XE
-(with stereo)
-
-additional credits:
-code:       bob_er
-msx:        dhor
-
+Info:    Stereo, 2nd POKEY required

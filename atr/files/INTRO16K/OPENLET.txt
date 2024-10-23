@@ -1,27 +1,12 @@
 Party:   Silly Venture 2k2x XE
 Compo:   ATARI XL/XE 16KB INTRO COMPO
-Title:   ???
-Author:  ???
+Title:   Open Letter
+Author:  Krapivin Dmitry
+         aka goblinish (code)
+         hruhru.hru@yandex.ru 
 
-         ??? (code)
-         ??? (gfx)
-         ??? (fnt)
-         ??? (msx)
+         Michal Brzezick 
+         aka Caruso (msx)
 
-Info:
-         PAL and NTSC supported
-         Requires 128K RAM
-         Requires 256K RAM
-         Requires 320K RAM
-         No sound
-         Mono
-         Mono, 2nd POKEY supported
-         Stereo, 2nd POKEY required
-         Requires VBXE video board
-         SillyPack compatible version
-         Now runs from DOS 2.5
-         Now RESET causes a cold start
-         Now runs reliably on real
-         hardware and from DOS 2.5
-
-Tools:   Raster Music Tracker 1.28
+Info:    Mono
+         Duration approximately 1:15

@@ -5,14 +5,17 @@ echo off
 echo Creating and copying fixes
 call :cpy       menu\README.txt atr\files\BONUS\README.txt
 call :fix       BONUS       README    $2000
+call :fix       INTRO16K    SLCHAOTI
 call :fix       INTRO256    ATTRACTO
 call :fix       INTRO256    KITT
+call :fix       INTRO256    ROLLTYRE
 call :fix       GAME        MAFIA
-call :fi        GAME        PIXEL
+call :fix       GAME        PIXEL
 call :fix       GAME256     AK256
 call :fix       GAME256     FLAPSHIP
 call :fix       MSX         LIGHTSUM
 call :fix       MSX         SLOWREW
+call :fix       WILD        CAPTAINF
 goto :eof
 
 rem =========

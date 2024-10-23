@@ -95,8 +95,8 @@
  ::--------------------------------------------------------------------------::
  ::   TITLE:                                 AUTHOR:                   PTS:  ::
  ::--------------------------------------------------------------------------::
-: 01 Slightly Chaotic                       Seban, Grayscale          7.821  :
-: 02 uncut                                  Masters of Electric City  7.231  :
+: 01 Slightly Chaotic                     Seban, Grayscale          7.821  :
+: 02 Uncut                                Masters of Electric City  7.231  :
 : 03 Open letter                            g0blinish, Caruso         6.679  :
 : 04 enjoy the colors                       PPs, Buddy                5.922  :
   
@@ -105,7 +105,7 @@
  ::--------------------------------------------------------------------------::
  ::   TITLE:                                 AUTHOR:                   PTS:  ::
  ::--------------------------------------------------------------------------::
- : 01 Alex Murphy                            JAC!, Buddy               7.419  :
+: 01 Alex Murphy                            JAC!, Buddy               7.419  :
 
  ::--------------------------------------------------------------------------::
  :    WILD COMPO                                                              :
@@ -120,6 +120,7 @@
  : 06 The Mind                               Filippp                   5.872  :
  : 07 Happy Birthday STE!                    PereSTroika               5.143  :
  : 08 SOLDIER                                sIMONKING/thelo0p^LAZARUS 4.707  :
+
 
 [- NFO by NE7/Divine Stylers in 2024! ----------------------------------------]
 

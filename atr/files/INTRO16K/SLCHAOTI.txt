@@ -1,0 +1,19 @@
+Party:   Silly Venture 2k24 SE
+Compo:   ATARI XL/XE 16KB INTRO COMPO
+Title:   Slightly Chaotic
+Author:  Sebastian Igielski
+         aka Seban/Slight^Altair
+         (idea, code)
+         Grzegorz Kwiatek
+         aka Greg/Grayscale (mx)
+         Lukasz Sychowicz
+         aka X-ray/Grayscale (msx)
+
+Info:    Requires PAL
+         Stereo, 2nd POKEY required
+         Now RESET causes cold start
+
+Music:   Euglena Zielona (2002)
+
+Version: V1.0a, 16254 bytes
+Release: 21:54,2024.08.16,Warsaw

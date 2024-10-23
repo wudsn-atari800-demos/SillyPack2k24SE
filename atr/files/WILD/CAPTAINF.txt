@@ -1,23 +1,19 @@
-------------------
---- for SV24se ---
-------------------
+Party:   Silly Venture 2k24 SE
+Compo:   WILD COMPO
+Type:    Atari 8-bit POKEY Music
+Title:   Captain Future Theme
+Author:  Christian Duesterhoefft
+         aka Buddy76cd (msx)
 
-Titel: Captain Future Theme
-       Stereo-Pokey-Version
+Info:    Stereo, 2nd POKEY required
+         Now runs from DOS 2.5
+         Original RMT file included
+Tools:   Raster Music Tracker 1.34
 
-Autor: Buddy
-
-Date: Aug-2024
-
-Categorie: Atari XL/XE Wild Compo
-           Stereo-Pokey
-
-Thanx to: Christian Bruhn & NordischSound
-
-*.xex for Altirra
-*.mp3 use it with your favorite mp3-player
-
+Date:    August 2024
+Thanks:  Christian Bruhn
+         NordischSound
 Note:
-If you want, set the Altirra emulator 
+If you want, set the Altirra emulator
 to stereo and mono playback... 
 Then you get the full roar!!!

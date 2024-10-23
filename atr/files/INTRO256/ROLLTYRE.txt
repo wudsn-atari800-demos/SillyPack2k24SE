@@ -8,3 +8,6 @@ Info:    No sound
          Tested on real hardware,
          Altirra, Atari800Win Plus,
          Colleen.
+         
+         Fixed version that does not
+         crash when a key is pressed.

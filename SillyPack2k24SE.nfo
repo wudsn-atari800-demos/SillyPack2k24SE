@@ -7,10 +7,10 @@
  !NE7        ___________     _______\/__
  
  
-   ? bonuses - ? songs - ? graphics - ? intros - ? demos - ? games - ? wilds
+    1 bonus - 2 songs - 5 graphics - 8 intros - 1 demo - 6 games - 1 wild
 
  This pack contains a disk image in MyDos format with all Atari 8-bit releases
- of Silly Venture 2k2x Summer Edition. I felt they deserved a good presentation,
+ of Silly Venture 2k24 Summer Edition. I felt they deserved a good presentation,
  esp. the graphics and music releases for which no art pack/music disk exists.
  
  This pack comes with a results viewer, which also acts as a menu from where
@@ -30,12 +30,20 @@
 
  I have patched the following releases for your seamless pleasure:
 
- * ?                           - SillyPack compatible version
- * ?                           - Now runs from DOS 2.5
+ * A-K 256B                    - Now runs from DOS 2.5.
+ * Attractor                   - Now runs from DOS 2.5.
+ * Captain Future Theme        - Now starts with BASIC enabled
+                               - Now runs from DOS 2.5.
+ * Ein Auto, ein Computer      - Now runs from DOS 2.5.
+ * Female Pixel                - Now runs from DOS 2.5
+ * Flappy Space Ship           - Now runs from DOS 2.5.
+ * Light Summer Breeze         - Now runs from DOS 2.5.
+ * Rolling Tyre                - No longer crashes when a key is pressed
+ * Slightly Chaotic            - Now performs cold start upon RESET.
+ * Slow Rewind                 - Now runs from DOS 2.5.
 
-
- Original ASCII artwork by sK!, music "???" by ???, menu by JAC!
+ Original ASCII artwork by ne7, music "Speculations" by Alex, menu by JAC!
 
  This download also contains a pre-configured Altirra installation.
- Just extract the archive to a folder and run "SillyPack2k2xSE.bat".
+ Just extract the archive to a folder and run "SillyPack2k24SE.bat".
  

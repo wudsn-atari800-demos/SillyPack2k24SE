@@ -1,10 +1,14 @@
-enjoy the colors by Buddy and PPs
-=================================
-- intro for sillyventure 24 summer edition
-- runs on all A8 with at least 48kB RAM
-- supports STEREO POKEY
-- music Buddy
-- code+gfx PPs
-Just a very small intro to say hello to everyone.
-I have no more time atm to do more :(
-______________________________________stay ATARI!
+Party:   Silly Venture 2k24 SE
+Compo:   ATARI XL/XE 16KB INTRO COMPO
+Title:   enjoy the colors
+Author:  Ralf Patschke
+         aka PPs (code,gfx)
+         Christian Duesterhoeft
+         aka Buddy (msx)
+
+Info:    PAL required
+         Mono, 2nd POKEY supported
+
+Just a very small intro to say hello
+to everyone. I have no more time atm
+to do more :(
